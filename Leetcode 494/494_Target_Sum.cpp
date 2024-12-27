@@ -1,5 +1,5 @@
-
-/************************Brute Force Approach ************/
+// Leetcode : https://leetcode.com/problems/target-sum/description/?envType=daily-question&envId=2024-12-26 
+/*************************** Brute Force Approach *******************************************/
 class Solution {
 public:
     int result = 0;
